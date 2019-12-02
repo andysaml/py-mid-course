@@ -1,0 +1,3 @@
+create database portfoliodb;
+create user mid with password 'mid123';
+grant all privileges on database portfoliodb to mid;
